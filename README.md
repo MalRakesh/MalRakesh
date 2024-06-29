@@ -90,11 +90,11 @@
 </details>
 
 <details>
-  <summary><b>🌐 &nbsp;Temperature Converter</b></summary>
+  <summary><b>🌐 &nbsp;Digital Clock</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/MalRakesh/Temperature-Converter">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=MalRakesh&repo=Temperature-Converter&theme=react&bg_color=000000&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/MalRakesh/Digital-Clock">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=MalRakesh&repo=Digital-Clock&theme=react&bg_color=000000&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
 </details>
