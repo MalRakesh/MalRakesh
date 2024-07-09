@@ -56,6 +56,10 @@
 <br>
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=MalRakesh&style=flat-square)
+
+<br>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=MalRakesh&theme=onedark&column=-1)
 
 <br>
